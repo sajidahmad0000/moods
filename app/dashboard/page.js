@@ -3,7 +3,7 @@ import Login from "@/components/Login";
 import Main from "@/components/Main";
 
 export const metadata = {
-  title: "Moods ⋅ Dashboard",
+  title: "Moodel ⋅ Dashboard",
   description: "Track your daily mood every day of the year!",
 };
 
