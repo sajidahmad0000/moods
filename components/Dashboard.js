@@ -10,12 +10,12 @@ export default function Dashboard() {
   };
 
   const moodz = {
-    Crying: "😭",
-    Sad: "😢",
-    Existing: "😶",
-    Good: "😊",
-    Elated: "😍",
-    Dizzy: "😴",
+    TearDrops: "😭",
+    Blue: "😢",
+    Numb: "😶",
+    Chill: "😊",
+    Bliss: "😍",
+    Sleepy: "😴",
   };
 
   return (
