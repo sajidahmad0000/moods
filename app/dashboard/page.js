@@ -8,7 +8,7 @@ export const metadata = {
 };
 
 export default function dashBoardPage() {
-  const isAuthenticated = false;
+  const isAuthenticated = true;
 
   let children = <Login />;
   if (isAuthenticated) {
